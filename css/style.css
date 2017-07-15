@@ -52,12 +52,12 @@ body {
 }
 
 ::selection {
-    background-color: #72e5ff;
+    background-color:#221146;
     color: #ffffff;
 }
 
 ::-moz-selection {
-    background-color: #72e5ff;
+    background-color:#221146;
     color: #ffffff;
 }
 
@@ -79,7 +79,7 @@ img {
 }
 
 a {
-    color: #4c9cef;
+    color:#7ec32e;
 }
 
 a:hover,
@@ -149,7 +149,7 @@ fieldset {
     text-align: center;
     border-radius: 50%;
     margin: 0 auto 50px;
-    background-color: #72e5ff;
+    background-color:#221146;
     color: #ffffff;
     box-shadow: 7px 24px 84px 0 rgba(0, 0, 0, 0.38);
 }
@@ -157,11 +157,11 @@ fieldset {
 .section-title h3 {
     text-align: center;
     font-size: 30px;
-    color: #4c9cef;
+    color:#7ec32e;
 }
 
 .section-title span {
-    color: #72e5ff !important;
+    color:#221146 !important;
 }
 
 .pattern-bg {
@@ -233,7 +233,7 @@ fieldset {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #4c9cef;
+    background:#7ec32e;
     border-radius: 50px;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
@@ -263,7 +263,7 @@ fieldset {
 /* Preloader */
 
 .preloader {
-    background: #4c9cef;
+    background:#7ec32e;
     bottom: 0;
     left: 0;
     position: fixed;
@@ -346,7 +346,7 @@ fieldset {
 .navigation-background {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
-    background: #4c9cef;
+    background:#7ec32e;
 }
 
 .navigation-background .logo {
@@ -390,7 +390,7 @@ fieldset {
 
 .home-section-background {
 	padding: 95px 0px;
-    background-color: #72e5ff;
+    background-color:#221146;
 }
 
 .home-section-background h2 {
@@ -436,7 +436,7 @@ fieldset {
 /* Services */
 
 .services-section {
-  background-color: #4c9cef;
+  background-color:#7ec32e;
 }
 
 .services-section hr {
@@ -503,7 +503,7 @@ fieldset {
     margin-top: 20px;
     overflow: hidden;
     border-top-left-radius: 50%;
-    background-color: #4c9cef;
+    background-color:#7ec32e;
     border-top: 49px solid #f5f5f5;
     box-shadow: inset 16px 27px 100px #6d6d6d;
 }
@@ -554,7 +554,7 @@ fieldset {
 	padding: 20px;
 	border-radius: 50px;
 	border: solid 3px #ffffff;
-	background: #4c9cef;
+	background:#7ec32e;
 	color: #ffffff;
 	width: 100%;
 	font-size: 15px;
@@ -623,7 +623,7 @@ fieldset {
 /* Contact Us */
 
 .contact-us {
-    background-color: #72e5ff;
+    background-color:#221146;
 }
 
 .contact-us-detail {
@@ -673,7 +673,7 @@ fieldset {
 }
 
 .form-control:focus {
-	border-color: #4c9cef;
+	border-color:#7ec32e;
 	border-width: 2px;
 }
 
@@ -819,7 +819,7 @@ fieldset {
 
 .footer-section {
     margin-top: -240px;
-    background-color: #4c9cef;
+    background-color:#7ec32e;
 }
 
 .footer-section .column-one {
@@ -897,11 +897,11 @@ fieldset {
 
 @media only screen and (max-width: 767px) {
     .navbar-toggle .icon-bar {
-        background: #4c9cef;
+        background:#7ec32e;
     }
     
 	.navigation-background .navbar-toggle .icon-bar {
-        background: #72e5ff;
+        background:#221146;
     }
     
 	.navbar-toggle {
@@ -940,11 +940,11 @@ fieldset {
     }
     
 	.navbar-collapse {
-        background: #4c9cef;
+        background:#7ec32e;
     }
     
 	.navigation-background .navbar-collapse {
-        background: #4c9cef;
+        background:#7ec32e;
     }
 }
 
@@ -1335,6 +1335,6 @@ fieldset {
 }
 
 .uipasta-credit a {
-    color: #72e5ff;
+    color:#221146;
     font-weight: 600;
 }
