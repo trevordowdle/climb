@@ -43,7 +43,7 @@ body {
     line-height: 24px;
     letter-spacing: 1px;
     height: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family:'PT Sans Narrow', sans-serif;
 }
 
 html,
@@ -67,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Nosifer', cursive;
+	font-family: 'Oswald', sans-serif;
 }
 
 a {
@@ -92,7 +92,7 @@ a:focus {
 
 p {
     line-height: 28px;
-    font-family: 'Poppins', sans-serif;
+    font-family:'PT Sans Narrow', sans-serif;
 }
 
 b {
@@ -279,7 +279,7 @@ fieldset {
     margin: -26px 0 0 -26px;
     font-size: 40px;
     color: #ffffff;
-    font-family: 'Nosifer', cursive;
+    font-family: 
 }
 
 
@@ -309,13 +309,13 @@ fieldset {
     font-weight: 600;
     font-size: 25px;
     width: 92px;
-    font-family: 'Nosifer', cursive;
+    font-family: 
 }
 
 .navigation-menu .navbar-nav li a {
     color: #ffffff;
     text-transform: uppercase;
-    font-family: 'Nosifer', cursive;
+    font-family: 
     font-size: 15px;
     letter-spacing: 1px;
     padding: 30px 15px;
@@ -473,7 +473,7 @@ fieldset {
 .services-detail h5 {
    color: #ffffff;
    font-size: 25px;
-   font-family: 'Poppins', sans-serif;
+   font-family:'PT Sans Narrow', sans-serif;
 }
 
 .services-detail:hover h5 {
@@ -638,7 +638,7 @@ fieldset {
 }
 
 .contact-us-detail h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family:'PT Sans Narrow', sans-serif;
     font-size: 14px;
 }
 
@@ -881,7 +881,8 @@ fieldset {
     .navigation-menu .navbar-nav li a {
         padding: 30px 11px;
         font-size: 12px;
-        font-family: 'Poppins', sans-serif; 
+        font-family:'PT Sans Narrow', sans-serif;
+ 
     }
     
 	.navigation-background .navigation-menu .navbar-nav li a {
@@ -1337,4 +1338,8 @@ fieldset {
 .uipasta-credit a {
     color:#221146;
     font-weight: 600;
+}
+
+.haley::before {
+    color:yellow;
 }
