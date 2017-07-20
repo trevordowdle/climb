@@ -157,15 +157,16 @@ fieldset {
 .section-title h3 {
     text-align: center;
     font-size: 30px;
-    color:#7ec32e;
+    color: #284b70
+    ;
 }
 
 .section-title span {
-    color:#221146 !important;
+    color: #7ec32e  !important;
 }
 
 .pattern-bg {
-	background: url(../images/bg/climb-bg.jpg);
+	background: url(../images/bg/paper-bg.jpg);
 	background-repeat: repeat;
 }
 
@@ -198,7 +199,7 @@ fieldset {
     font-family: inherit;
     font-size: 15px;
     color: #ffffff;
-    background: #fd2034;
+    background:#284b70;
     cursor: pointer;
     border-radius: 50px;
     padding: 20px 65px;
@@ -304,7 +305,7 @@ fieldset {
 
 .logo a {
     display: block;
-    color: #fd2034;
+    color: #284b70;
     letter-spacing: 6px;
     font-weight: 600;
     font-size: 25px;
@@ -389,8 +390,9 @@ fieldset {
 /* Home Section */
 
 .home-section-background {
-	padding: 95px 0px;
-    background-color:#221146;
+    padding: 95px 0px;
+    background-color: rgb(29,166,171);
+    background-color: rgba(29, 166, 171, 0.69);
 }
 
 .home-section-background h2 {
@@ -436,7 +438,8 @@ fieldset {
 /* Services */
 
 .services-section {
-  background-color:#7ec32e;
+  background-color:rgb(29,166,171);
+  background-color:rgba(29, 166, 171, 0.69);
 }
 
 .services-section hr {
@@ -554,7 +557,7 @@ fieldset {
 	padding: 20px;
 	border-radius: 50px;
 	border: solid 3px #ffffff;
-	background:#7ec32e;
+	background: #fdd05a;
 	color: #ffffff;
 	width: 100%;
 	font-size: 15px;
@@ -603,7 +606,7 @@ fieldset {
 	letter-spacing: 1px;
 	color: #FFF;
 	font-weight: 600;
-	background: #fd2034;
+	background: #284b70;
 	border: none;
 	top: 5px;
 	right: 5px;
@@ -623,9 +626,9 @@ fieldset {
 /* Contact Us */
 
 .contact-us {
-    background-color:#221146;
+    background-color: rgb(29,166,171);
+    background-color: rgba(29, 166, 171, 0.69);
 }
-
 .contact-us-detail {
     padding: 35px;
     transition: all 0.3s ease-in-out;
@@ -1336,10 +1339,10 @@ fieldset {
 }
 
 .uipasta-credit a {
-    color:#221146;
+    color: #284b70;
     font-weight: 600;
 }
 
 .haley::before {
-    color:yellow;
+    color: #ffffff;
 }
